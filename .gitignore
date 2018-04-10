@@ -35,6 +35,5 @@
 *.aux
 *.dvi
 *.log
-*.pdf
 *.gz
 *.toc
